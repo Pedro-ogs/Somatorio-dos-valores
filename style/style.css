@@ -1,0 +1,51 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #454d6b;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card{
+    background-color: rgba(19, 19, 19, 0.3);
+    padding: 40px;
+    border-radius: 2px;
+    width: 280px;
+}
+
+.card-header{
+    padding-bottom: 50px;
+    opacity: 0.8;
+    color: #fff;
+}
+
+p{
+    color: #fff;
+}
+
+/*.button{
+    width: 37%;
+}*/
+input {
+    padding: 8px;
+    margin: 5px 0; /* Adiciona margem apenas na parte superior e inferior do input */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.button {
+    display: inline-block; /* Para que o <span> e o <p> fiquem na mesma linha */
+    width: 37%;
+    margin-top: 10px; /* Adiciona alguma margem acima do <span> */
+    color: #fff;
+}
+
+span{
+    color: #fff;
+}
