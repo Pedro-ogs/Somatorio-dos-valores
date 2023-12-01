@@ -10,10 +10,10 @@
 + main.js: O arquivo JavaScript que contém a lógica para calcular o somatório dos números.
 
 ## Arquivo HTML (index.html)
-+ <head>: Contém a codificação, a viewport e o título da página. Também vincula o arquivo CSS e JavaScript.
-+ <body>: O conteúdo principal da página, contendo um contêiner que centraliza o conteúdo usando Flexbox.
-+ <nav>: Um contêiner estilizado como um "cartão" que abriga o título, o campo de entrada, o botão e o resultado.
-+ <script>: Inclui o arquivo JavaScript para fornecer a funcionalidade do cálculo.
++ <head> Contém a codificação, a viewport e o título da página. Também vincula o arquivo CSS e JavaScript.
++ <body> O conteúdo principal da página, contendo um contêiner que centraliza o conteúdo usando Flexbox.
++ <nav> Um contêiner estilizado como um "cartão" que abriga o título, o campo de entrada, o botão e o resultado.
++ <script> Inclui o arquivo JavaScript para fornecer a funcionalidade do cálculo.
 
 ## Arquivo CSS (style/style.css)
 + Estilo do Corpo (body): Define a aparência do corpo da página, incluindo a cor de fundo.
